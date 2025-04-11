@@ -59,7 +59,3 @@ This project appears to be a computer vision application using YOLOv8 for object
 - The project uses YOLOv8 for object detection
 - Make sure you have sufficient disk space for the model files
 - GPU acceleration is recommended for better performance
-
-## License
-
-[Add your license information here] 
